@@ -6,7 +6,7 @@ I'm a 3️⃣rd year student 👩🏻‍🏫 at Brown University studying Comput
 
 ⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and play chess ♟.
 
-📫 How to reach me: Shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/))
+📫 How to reach me: Shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/)
 
 
 
