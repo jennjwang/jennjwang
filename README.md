@@ -4,7 +4,7 @@
 
 I'm a 3️⃣rd year student 👩🏻‍🏫 at Brown University studying Computer Science 💻 and International and Public Affairs with an interest in tech ethics, AI regulation, and human-centered design. My work centers around a passion to mobilize technology for social good and my belief that the solutions to today’s most intractable problems come from the power of communities. Ultimately, I seek to connect the fruits of technological development with the social and economic concerns that have long plagued public policy.
 
-⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and play chess ♟.
+⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and playing chess ♟.
 
 📫 How to reach me: feel free to shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/). I don't bite <3
 
