@@ -2,7 +2,14 @@
 
 😄 Pronouns: she/her
 
-I'm a junior at Brown University studying Computer Science and International and Public Affairs with an interest in tech ethics, AI regulation, and human-centered design.
+I'm a 3️⃣rd year student 👩🏻‍🏫 at Brown University studying Computer Science 💻 and International and Public Affairs with an interest in tech ethics, AI regulation, and human-centered design. My work centers around a passion to mobilize technology for social good and my belief that the solutions to today’s most intractable problems come from the power of communities. Ultimately, I seek to connect the fruits of technological development with the social and economic concerns that have long plagued public policy.
+
+⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and play chess ♟.
+
+📫 How to reach me: Shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/))
+
+
+
 
 <!--
 **jennjwang/jennjwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
