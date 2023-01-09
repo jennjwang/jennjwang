@@ -1,4 +1,4 @@
-### Nice to meet ya, I'm Jenn!
+### Nice to meet ya 👋, I'm Jenn!
 
 😄 Pronouns: she/her
 
