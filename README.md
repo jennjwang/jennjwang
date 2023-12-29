@@ -4,7 +4,7 @@
 
 I'm a 3️⃣rd year student 👩🏻‍🏫 at Brown University studying Computer Science 💻 and International and Public Affairs with an interest in tech policy and human-centered computing. My work centers around a passion to mobilize technology for social good, as I seek to connect the fruits of technological development with the socioeconomic concerns that have long plagued public policy.
 
-🔬 Research interests: algorithmic fairness, HCI, machine learning
+🔬 Research interests: algorithmic fairness, HCI, AI auditing
 
 ⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and playing chess ♟.
 
