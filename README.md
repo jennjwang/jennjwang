@@ -2,14 +2,11 @@
 
 😄 Pronouns: she/her
 
-I'm a 3️⃣rd year student 👩🏻‍🏫 at Brown University studying Computer Science 💻 and International and Public Affairs with an interest in tech policy and human-centered computing. My work centers around a passion to mobilize technology for social good.
-
-🔬 Research interests: algorithmic fairness, HCI, AI auditing
+I'm a student 👩🏻‍🏫 at Brown University studying Computer Science 💻 with an interest in tech policy and human-centered computing. My work centers around a passion for mobilizing technology for social good.
 
 ⚡ Fun fact: In my free time, I love cafe-hopping ☕️, baking pies 🥧, binging studio ghibli movies 🍿, and playing chess ♟.
 
-📫 How to reach me: You can shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/). Don't worry, I don't bite <3
-
+📫 How to reach me: You can shoot me an [email](mailto:jennifer_wang@brown.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jennifer-wang-b156b81b1/).
 
 
 
